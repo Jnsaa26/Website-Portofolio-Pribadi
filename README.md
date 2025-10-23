@@ -25,8 +25,8 @@ Lalu sampai ke page ke 4 yaitu page terakhir yang berisi contacts me atau bisa j
 Dan ini merupakan tampilan websites saya saat dark mode
 <img width="852" height="857" alt="Screenshot 2025-10-23 233334" src="https://github.com/user-attachments/assets/266a71d0-fb4d-450a-a25e-f54ea721c3c3" />
 <img width="575" height="612" alt="Screenshot 2025-10-23 233313" src="https://github.com/user-attachments/assets/897f0433-3e72-40bc-bfb8-2fa7a80c2e0b" />
-<img width="1508" height="858" alt="Screenshot 2025-10-23 233215" src="https://github.com/user-attachments/assets/2081aef7-9db9-4b07-a24f-8b429aa4ae1a" />
-<img width="1131" height="844" alt="Screenshot 2025-10-23 233232" src="https://github.com/user-attachments/assets/713b1117-9d20-4376-875c-8b46e3831e75" />
+<img width="1131" height="844" alt="Screenshot 2025-10-23 233232" src="https://github.com/user-attachments/assets/22051e99-b122-4fa0-85af-f75d542326ba" />
+<img width="1508" height="858" alt="Screenshot 2025-10-23 233215" src="https://github.com/user-attachments/assets/26872aa8-6e7f-4671-8765-e7350d8c99ff" />
 
 
 
