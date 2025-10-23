@@ -39,7 +39,9 @@ Website ini juga dilengkapi dengan fitur *dark mode* (mode gelap) yang diterapka
 ![alt text](https://github.com/user-attachments/assets/266a71d0-fb4d-450a-a25e-f54ea721c3c3)
 ![alt text](https://github.com/user-attachments/assets/897f0433-3e72-40bc-bfb8-2fa7a80c2e0b)
 ![alt text](https://github.com/user-attachments/assets/22051e99-b122-4fa0-85af-f75d542326ba)
-![alt text](https://github.com/user-attachments/assets/26872aa8-6e7f-4671-8765-e7350d8c99ff)
+![alt text](https://github.com/user-attachments/assets/1e754b36-9233-4e7f-9b67-9fd391beb57b)
+
+
 
 
 
