@@ -2,7 +2,7 @@
 Website Portofolio yang dibuat akan berisi tampilan website seperti Home, Experiences, Projects, dan Contacts serta link video Youtube demo.
 Website ini didesain dengan estetika dan tampilan visual yang menarik dengan menggunakan CSS fan Framework Bootstrap serta JavaScript untuk kemudahan interaksi didalamnya.
 
-Link Youtube: https://youtu.be/makyqJUU59w
+Link Youtube: https://youtu.be/makyqJUU59w (Maaf pak saya upload di akun Youtube teman saya, karena akun Youtube saya tidak bisa diverifikasi T_T)
 
 Tampilan Home dan Profile singkat
 <img width="873" height="863" alt="home" src="https://github.com/user-attachments/assets/70c62d35-44ef-4d7a-a5b4-27b79232904a" />
