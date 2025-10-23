@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+
+    <header class="navbar-custom sticky-top">
+        <nav class="navbar navbar-expand-lg navbar-dark container">
+            <div class="navbar-brand d-flex align-items-center">
+                <button type="button" class="btn p-0 border-0 bg-transparent text-decoration-none" data-bs-toggle="modal" data-bs-target="#profileModal" aria-label="Open profile picture">
+                    <img src="images/profile2.jpg" alt="Profile" class="navbar-profile-img me-2">
+                </button>
+                <a href="index.html" class="text-decoration-none text-white">@jnsaa__</a>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Profile</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="exp.html">Experience</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="project.html">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contacts.html">Contacts</a>
+                    </li>
+                    <li class="nav-item ms-lg-2">
+                        <button class="btn btn-outline-light btn-sm" id="themeToggle" aria-label="Toggle dark mode">
+                            <i class="bi bi-moon-fill"></i>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container my-5">
+        <h2 class="mb-4 text-center section-title" data-aos="fade-down" data-aos-duration="800">My Projects</h2>
+
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <div class="card h-100 shadow-sm project-card">
+                    <img src="images\logo-rs.png" class="card-img-top" alt="Proyek Rekam Medis">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">Patient Medical Records Management System</h5>
+                        <p class="card-text">Creating a medical records system to facilitate patient data management and communication between staff, medical personnel, and doctors. This system is designed using C++.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">January 2025</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-4">
+                <div class="card h-100 shadow-sm project-card">
+                    <img src="images\hanami.jpg" class="card-img-top" alt="Proyek Aplikasi Hanami">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">Social Media Application Design Prototype - Hanami</h5>
+                        <p class="card-text">Created a prototype social media application with photo or video sharing and instant messaging as the main features. Built using Figma for UI/UX design.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">January 2025</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Profile Image Modal -->
+    <div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="profileModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="profileModalLabel">Profile Picture</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center p-0">
+                    <img src="images/profile2.jpg" alt="Profile" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer-custom text-center text-white py-4">
+        <div class="container">
+            <p class="mb-0">&copy; 2025 Julian Esa Mahendra Putra</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experience</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+<body>
+
+    <header class="navbar-custom sticky-top">
+        <nav class="navbar navbar-expand-lg navbar-dark container">
+            <div class="navbar-brand d-flex align-items-center">
+                <button type="button" class="btn p-0 border-0 bg-transparent text-decoration-none" data-bs-toggle="modal" data-bs-target="#profileModal" aria-label="Open profile picture">
+                    <img src="images/profile2.jpg" alt="Profile" class="navbar-profile-img me-2">
+                </button>
+                <a href="index.html" class="text-decoration-none text-white">@jnsaa__</a>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Profile</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="exp.html">Experience</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="project.html">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contacts.html">Contacts</a>
+                    </li>
+                    <li class="nav-item ms-lg-2">
+                        <button class="btn btn-outline-light btn-sm" id="themeToggle" aria-label="Toggle dark mode">
+                            <i class="bi bi-moon-fill"></i>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container my-5">
+        <h2 class="mb-4 text-center section-title" data-aos="fade-down" data-aos-duration="800">Experience n Skills</h2>
+
+        <section id="organisasi" class="mb-5">
+            <h3>Experience</h3>
+            
+            <!-- ECC Experience -->
+            <div class="card shadow-sm custom-card mb-4" data-aos="fade-up">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3 mb-3 mb-md-0">
+                            <a href="#" data-bs-toggle="modal" data-bs-target="#imageModal" 
+                               onclick="showImage('images/ecc-logo.png', 'ECC Logo')">
+                                <img src="images\ecc-logo.png" alt="ECC Logo" class="img-fluid rounded experience-img">
+                            </a>
+                        </div>
+                        <div class="col-md-9">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <h5 class="card-title">Ex Member Of ECC - English Conversation Club SMA</h5>
+                                <span class="text-muted">2022 - 2024</span>
+                            </div>
+                            <ul class="mt-2">
+                                <li>Learning and applying English in conversation.</li>
+                                <li>Participate in English Olympiads at district, provincial or national level.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Intern Teacher Experience -->
+            <div class="card shadow-sm custom-card mb-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3 mb-3 mb-md-0">
+                            <a href="#" data-bs-toggle="modal" data-bs-target="#imageModal" 
+                               onclick="showImage('images/internteacher.jpg', 'Intern Teacher')">
+                                <img src="images\internteacher.jpg" alt="Intern teacher" class="img-fluid rounded experience-img">
+                            </a>
+                        </div>
+                        <div class="col-md-9">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <h5 class="card-title">Intern Teacher</h5>
+                                <span class="text-muted">2024</span>
+                            </div>
+                            <ul class="mt-2">
+                                <p>Becoming an intern teacher at Ngembung State Elementary School <br>
+                                   or now known as Gresik 69 State Elementary School, as one of the graduation requirements</p>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TOEFL Test -->
+            <div class="card shadow-sm custom-card" data-aos="fade-up" data-aos-delay="200">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3 mb-3 mb-md-0">
+                            <a href="#" data-bs-toggle="modal" data-bs-target="#imageModal" 
+                               onclick="showImage('images/toeflcertif.jpg', 'TOEFL Certificate')">
+                                <img src="images\toeflcertif.jpg" alt="TOEFL" class="img-fluid rounded experience-img">
+                            </a>
+                        </div>
+                        <div class="col-md-9">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <h5 class="card-title">TOEFL Test Daily Bahasa Inggris</h5>
+                                <span class="text-muted">2024</span>
+                            </div>
+                            <ul class="mt-2">
+                                <li>Daily Bahasa Inggris TOEFL Test score 553 out of 600.</li>
+                                <li>Able to understand English to the level of everyday conversation.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- OSN Experience -->
+            <div class="card shadow-sm custom-card" data-aos="fade-up" data-aos-delay="200">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3 mb-3 mb-md-0">
+                            <a href="#" data-bs-toggle="modal" data-bs-target="#imageModal" 
+                               onclick="showImage('images/osncertif.jpg', 'OSN Certificate')">
+                                <img src="images\osncertif.jpg" alt="OSN" class="img-fluid rounded experience-img">
+                            </a>
+                        </div>
+                        <div class="col-md-9">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <h5 class="card-title">National Science Olympics (OSN)</h5>
+                                <span class="text-muted">2022 - 2024</span>
+                            </div>
+                            <ul class="mt-2">
+                                <li>Participate in the Olympics Science, either through school or independently.</li>
+                                <li>To gain experience in competing on a national scale.</li>
+                                <li>Improve knowledge and skills in various fields of science or common knowledgdes.</li>
+                                <li>If get a certificate it will add value and also increase the chances of getting into a State University.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="keterampilan" class="row">
+            <h3 class="mb-3">Skills</h3>
+            <div class="col-md-6 mb-4" data-aos="fade-right" data-aos-duration="1000">
+                <div class="card h-100 shadow-sm custom-card">
+                    <div class="card-body">
+                        <h5 class="card-title mb-3">Interpersonal Skills</h5>
+                        <div class="skills-grid">
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Solution</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Critical Thinking</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Teamwork</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Adaptability</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Responsibility</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Work Ethic</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Communication</span>
+                            <span class="badge rounded-pill bg-primary-subtle text-primary border border-primary-subtle m-1 px-3 py-2">Time Management</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 mb-4" data-aos="fade-left" data-aos-duration="1000">
+                <div class="card h-100 shadow-sm custom-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Tools and Programming That I Frequently Used</h5>
+                        <div class="tool-grid d-flex flex-wrap align-items-center gap-3">
+                            <div class="tool-item text-center">
+                                <img src="images\c++.png" alt="C++" class="tool-img mb-1">
+                                <div class="small text-muted">C++</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\python.png" alt="Python" class="tool-img mb-1">
+                                <div class="small text-muted">Python</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\html.png" alt="HTML" class="tool-img mb-1">
+                                <div class="small text-muted">HTML</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\css.png" alt="CSS" class="tool-img mb-1">
+                                <div class="small text-muted">CSS</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\js.png" alt="JavaScript" class="tool-img mb-1">
+                                <div class="small text-muted">JavaScript</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\office.png" alt="Microsoft Office" class="tool-img mb-1">
+                                <div class="small text-muted">Microsoft Office</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\capcut.png" alt="CapCut" class="tool-img mb-1">
+                                <div class="small text-muted">CapCut</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\canva.png" alt="Canva" class="tool-img mb-1">
+                                <div class="small text-muted">Canva</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\vsc.png" alt="Visual Studio Code" class="tool-img mb-1">
+                                <div class="small text-muted">VS Code</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\cisco-packet-tracer.png" alt="Cisco" class="tool-img mb-1">
+                                <div class="small text-muted">Cisco PT</div>
+                            </div>
+                            <div class="tool-item text-center">
+                                <img src="images\octave.png" alt="Octave" class="tool-img mb-1">
+                                <div class="small text-muted">Octave</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Image Modal -->
+    <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <img id="modalImage" src="" alt="" class="img-fluid rounded">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Profile Image Modal -->
+    <div class="modal fade" id="profileModal" tabindex="-1" aria-labelledby="profileModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="profileModalLabel">Profile Picture</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center p-0">
+                    <img src="images\profile2.jpg" alt="Profile" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer-custom text-center text-white py-4">
+        <div class="container">
+            <p class="mb-0">&copy; 2025 Julian Esa Mahendra Putra</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="script.js"></script>
+    
+    <script>
+        function showImage(imageSrc, imageTitle) {
+            document.getElementById('modalImage').src = imageSrc;
+            document.getElementById('imageModalLabel').textContent = imageTitle;
+        }
+    </script>
+</body>
+</html>
