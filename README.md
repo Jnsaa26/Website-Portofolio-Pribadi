@@ -8,6 +8,8 @@ Tampilan Home dan Profile singkat
 <img width="873" height="863" alt="home" src="https://github.com/user-attachments/assets/70c62d35-44ef-4d7a-a5b4-27b79232904a" />
 Disini merupakan page pembuka yang berisi tentang deskripsi singkat saya, dan juga pendidikan yang telah diampu serta bahasa yang sering saya gunakan, untuk tampilan beberapa tulisan berwarna warni.
 
+
+
 Tampilan Experience n Skills
 <img width="566" height="606" alt="experience" src="https://github.com/user-attachments/assets/3e5d330a-2499-4f25-b9dc-16a395637e0e" />
 Untuk Page kedua ini berisi pengalaman saya sampai hari ini seperti lomba ataupun organisai, dan juga ada interpersonal skill saya, lalu beberapa aplikasi dan juga bahasa pemrograman yang sering saya pakai, tampilan di page ini relatif padat karena banyak elemen yang saya masukkan tapi tetap interaktif.
