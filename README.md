@@ -12,9 +12,11 @@ Tampilan Experience n Skills
 <img width="566" height="606" alt="experience" src="https://github.com/user-attachments/assets/3e5d330a-2499-4f25-b9dc-16a395637e0e" />
 Untuk Page kedua ini berisi pengalaman saya sampai hari ini seperti lomba ataupun organisai, dan juga ada interpersonal skill saya, lalu beberapa aplikasi dan juga bahasa pemrograman yang sering saya pakai, tampilan di page ini relatif padat karena banyak elemen yang saya masukkan tapi tetap interaktif.
 
+
 Tampilan Projects
 <img width="1128" height="855" alt="projects" src="https://github.com/user-attachments/assets/3756020c-179a-415b-ba62-6ef02fd3ad89" />
 Untuk page selanjutnya yaitu page yang berisi project, page ini berisi project yang pernah saya kerjakan sebagai tugas dan juga untuk menambah pengalaman dalam membuat sistem dan juga mendesain UI/UX. Tampilan page ini agak sederhana dikarenakan sedikit elemen dan penjelasan yang saya masukkan.
+
 
 Tampilan Contacts Me
 <img width="1512" height="862" alt="contacts" src="https://github.com/user-attachments/assets/0d035be2-1afd-403a-8454-d9d06298c355" />
