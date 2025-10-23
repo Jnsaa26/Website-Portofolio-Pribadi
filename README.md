@@ -6,9 +6,7 @@ Link Youtube: https://youtu.be/makyqJUU59w (Maaf pak saya upload di akun Youtube
 
 Tampilan Home dan Profile singkat
 <img width="873" height="863" alt="home" src="https://github.com/user-attachments/assets/70c62d35-44ef-4d7a-a5b4-27b79232904a" />
-Disini merupakan page pembuka yang berisi tentang deskripsi singkat saya, dan juga pendidikan yang telah diampu serta bahasa yang sering saya gunakan, untuk tampilan beberapa tulisan berwarna warni.
-
-
+Disini merupakan page pembuka yang berisi tentang deskripsi singkat saya, dan juga pendidikan yang telah diampu serta bahasa yang sering saya gunakan, untuk tampilan beberapa tulisan berwarna warni. <br>
 
 Tampilan Experience n Skills
 <img width="566" height="606" alt="experience" src="https://github.com/user-attachments/assets/3e5d330a-2499-4f25-b9dc-16a395637e0e" />
